@@ -7,6 +7,8 @@
 - https://www.linkedin.com/in/mohammadamin-ahanin-a5729a236/
 - Gmail:
 - maahaninir@gmail.com
+- Kaggle: 
+- https://www.kaggle.com/mohammadaminahanin
 
 
 <!---
