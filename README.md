@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohAhanin, studying computer engineering at Shiraz University of Technology
+- 👋 Hey, I’m @mohAhanin, studying computer engineering at Shiraz University of Technology
 - 👀 I’m interested in Data Science and human-ai interaction 
 - 🌱 I’m currently learning ML algorithms  
 - 💞️ I’m looking to collaborate on data science projects
