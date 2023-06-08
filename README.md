@@ -1,4 +1,4 @@
-👋 Hello, I am @mohAhanin, a computer engineering student at Shiraz University of Technology with a passion for all things Data Science. I am constantly exploring new ways to apply machine learning algorithms to solve real-world problems and improve the interaction between humans and AI. 
+👋 Hiiii, I am @mohAhanin, a computer engineering student at Shiraz University of Technology with a passion for all things Data Science. I am constantly exploring new ways to apply machine learning algorithms to solve real-world problems and improve the interaction between humans and AI. 
 
 🌱 Currently, I am honing my skills in various ML algorithms, including deep learning and natural language processing, to develop innovative solutions for complex data challenges. 
 
