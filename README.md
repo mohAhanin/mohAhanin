@@ -5,8 +5,8 @@
 I am always looking for exciting collaboration opportunities on Data Science projects, where I can contribute my expertise and work with like-minded individuals to create impactful solutions. 
 
 📫 You can connect with me via the following channels:<br>
-LinkedIn (https://www.linkedin.com/in/mohammadamin-ahanin-a5729a236/), 
-Gmail (maahaninir@gmail.com), 
+LinkedIn (https://www.linkedin.com/in/mohammadamin-ahanin-a5729a236/),<br>
+Gmail (maahaninir@gmail.com), <br>
 Kaggle (https://www.kaggle.com/mohammadaminahanin).
 
 Take a look at my Github profile to see some of my latest projects and contributions to the Data Science community.
