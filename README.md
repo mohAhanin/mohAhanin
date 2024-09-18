@@ -1,15 +1,36 @@
-👋 Hiiii, I am @mohAhanin, a computer engineering student at Shiraz University of Technology with a passion for all things Data Science. I am constantly exploring new ways to apply machine learning algorithms to solve real-world problems and improve the interaction between humans and AI. <br>
-🌱 Currently, I am honing my skills in various ML algorithms, including deep learning and natural language processing, to develop innovative solutions for complex data challenges. 
-I am always looking for exciting collaboration opportunities on Data Science projects, where I can contribute my expertise and work with like-minded individuals to create impactful solutions. <br>
-📫 You can connect with me via the following channels:<br>
-LinkedIn (https://www.linkedin.com/in/mohammadamin-ahanin-a5729a236/),<br>
-Gmail (maahaninir@gmail.com), <br>
-Kaggle (https://www.kaggle.com/mohammadaminahanin),<br>
-Webpage (https://mohahanin.github.io/Portfolio-Webpage/.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Mohammadamin+Ahanin;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
+</h1>
 
-Take a look at my Github profile to see some of my latest projects and contributions to the Data Science community.
+### 👨‍💻  About Me:
 
-<!---
-mohAhanin/mohAhanin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a computer engineering student at Shiraz University of Technology with a passion for all things Data Science. I am constantly exploring new ways to apply machine learning algorithms to solve real-world problems and improve the interaction between humans and AI.
+
+### 👨‍💻 My Stack:
+
+!Python
+!TensorFlow
+!Keras
+!Scikit-Learn
+!Pandas
+!NumPy
+!Matplotlib
+!Seaborn
+!Jupyter
+!Git
+!GitHub
+!Docker
+!Postman
+
+##
+
+!     !
+
+##
+
+### 📌 My Social:
+
+!LinkedIn
+!Gmail
+!Kaggle
+!Webpage
