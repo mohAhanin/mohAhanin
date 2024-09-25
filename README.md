@@ -1,7 +1,4 @@
-
 <p align="center"><a href="https://mohahanin.github.io/Portfolio-Webpage/">Hello, I'm Mohammadamin. I love Data Science!</a></p>
-![gh-readme-header](https://github.com/user-attachments/assets/f59bb9fd-8f0f-4ea8-889a-8a73134264bd)
-
 
 <br />
 
