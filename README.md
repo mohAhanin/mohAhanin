@@ -1,5 +1,5 @@
-![gh-readme-header](https://github.com/user-attachments/assets/0203aeba-34bf-49e0-a0bb-69f92f4c999d)<p align="center"><a href="https://mohahanin.github.io/Portfolio-Webpage/"><img width="80%" alt="Hello, I'm Mohammadamin. I love Data Science!" src="./assets/gh-readme-header.png" /></a></p>
-![gh-readme-header](https://github.com/user-attachments/assets/a27c1941-f0d9-4915-893c-7ca6322e9c56)
+<p align="center"><a href="https://mohahanin.github.io/Portfolio-Webpage/"><img width="80%" alt="Hello, I'm Mohammadamin. I love Data Science!" src="![gh-readme-header](https://github.com/user-attachments/assets/0203aeba-34bf-49e0-a0bb-69f92f4c999d)" /></a></p>
+
 
 <br />
 
