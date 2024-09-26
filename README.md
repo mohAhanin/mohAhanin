@@ -25,7 +25,7 @@ I'm a computer engineering student at Shiraz University of Technology with a pas
 <br />
 <br />
 
-<a href="https://https://www.linkedin.com/in/mohammadamin-ahanin/">
+<a href="https://www.linkedin.com/in/mohammadamin-ahanin/">
   <img align="right" alt="Mohammadamin Ahanin | LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="mailto:maahanin@gmail.com">
