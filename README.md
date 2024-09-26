@@ -25,9 +25,9 @@ I'm a computer engineering student at Shiraz University of Technology with a pas
 <br />
 <br />
 
-<a href="https://twitter.com/mohAhanin">
-  <img align="right" alt="Mohammadamin Ahanin | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://[www.linkedin.com/in/mohAhanin](https://www.linkedin.com/in/mohammadamin-ahanin/)">
+  <img align="right" alt="Mohammadamin Ahanin | LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://codesandbox.io/u/mohAhanin">
-  <img align="right" alt="Mohammadamin Ahanin | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="mailto:maahanin@gmail.com">
+  <img align="right" alt="Mohammadamin Ahanin | Gmail" width="21px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
