@@ -13,7 +13,8 @@ I'm a computer engineering student at Shiraz University of Technology with a pas
 - ❤️ I love exploring new ways to apply machine learning algorithms to solve real-world problems.
 
 - 💬 Ask me about anything here
-
+  
+<code><img height="20" alt="yolo" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Yolo-logo.png"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code>
