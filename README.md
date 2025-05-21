@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mohahanin.github.io/Portfolio-Webpage/">Hello, I'm Mohammadamin. I love Data Science!</a></p>
+<p align="center"><a href="https://mohahanin.github.io/Portfolio-Webpage/">I'm Mohammadamin. I love Data Science!</a></p>
 
 <br />
 
