@@ -18,7 +18,7 @@ I'm a computer engineering student at Shiraz University of Technology with a pas
 <code><img height="30" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" alt="pandas" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 <code><img height="30" alt="numpy" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
-<code><img height="30" alt="yolo" src="[https://pjreddie.com/media/image/yologo_2.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40enriqueav%2Fobject-detection-with-yolo-implementations-and-how-to-use-them-5da928356035&psig=AOvVaw3xdpyNyHf7Hb8N2lWwv_lm&ust=1748626056688000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjttfeZyY0DFQAAAAAdAAAAABAE)"></code>
+
 
 <br />
 <br />
