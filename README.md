@@ -9,58 +9,13 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
 
 ### 🧠 About Me
 
-- 📚 BSc Computer Engineering | Shiraz University of Technology (Top 20% of class)
-- 👨‍💻 Intern @ Ariooteam – Image Segmentation & Churn Prediction
+- 📚 BSc Computer Engineering | Shiraz University of Technology 
+- 👨‍💻 Intern @ Ariooteam 
 - 👨‍🏫 TA for Database Course | AI Scientific Society – Deputy Secretary
 - 🔍 Researcher at Laboratory of Cognitive Science & Data Science
 - 🧬 Interested in: Federated Learning, NLP, Medical AI, Disease Detection
 
----
 
-### 🚀 Selected Projects
-
-**Customer Churn Prediction – Havayar Company**  
-Developed churn prediction model from noisy enterprise data using ML. Built APIs, managed deployment, and documented the system.
-
-**Litopia – Laptop Market Analysis**  
-Analyzed e-commerce data, scraped competitor inventories, visualized insights via Power BI. Used SQL, Python, and machine learning.
-
----
-
-### 🏢 Experience
-
-**🔬 Data Science Intern @ Ariooteam (Sep 2024 – Mar 2025)**  
-- Worked on image processing (YOLO, SAM)
-- Model deployment, API creation
-- ML tasks: Churn prediction, documentation
-
-**📊 Quera Bootcamp (Aug – Nov 2023)**  
-- Projects in data wrangling, ML, scraping, Power BI
-- Participated in interviews and hiring simulations
-
----
-
-### 📚 Education & Research
-
-**BSc in Computer Engineering (2021–2025)**  
-- Shiraz University of Technology  
-- GPA: 16.23/20  
-- Top 1% in national entrance exam  
-- Teaching Assistant & Researcher  
-- Research Interests:  
-  - Federated Learning  
-  - Medical Imaging  
-  - NLP & LLMs  
-  - Distributed Systems  
-
----
-
-### 📌 Publications & Presentations
-
-- **Early Detection of Alzheimer’s-like Behavior** using DL in Smart Homes  
-- **Vertical Federated Learning with Additive Secret Sharing** for Cardiovascular Risk Prediction
-
----
 
 ### 🛠️ Tech Stack
 
