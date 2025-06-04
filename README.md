@@ -23,8 +23,7 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
 <code><img height="30" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code>
 <code><img height="30" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" alt="power-bi" src="https://seeklogo.com/images/P/power-bi-logo-F8B2720E20-seeklogo.com.png"></code>
-<code><img height="30" alt="beautifulsoup" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_Logo.png"></code>
+
 <code><img height="30" alt="numpy" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 <code><img height="30" alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
 
