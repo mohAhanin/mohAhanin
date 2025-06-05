@@ -42,7 +42,7 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
 <br />
 Location: Shiraz, Iran | +98 933 917 4250  
 <br />
-## Contact
+
 
 **Email:**  
 [Academic mail](mailto:m.ahanin@sutech.ac.ir)  
