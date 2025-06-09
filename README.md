@@ -13,7 +13,7 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
 - 👨‍💻 Intern @ Ariooteam 
 - 👨‍🏫 TA for Database Course | AI Scientific Society – Deputy Secretary
 - 🔍 Researcher at Laboratory of Cognitive Science & Data Science
-- 🧬 Interested in: Federated Learning, NLP, Medical AI, Disease Detection
+- 🧬 Interested in: Federated Learning, NLP, Medical AI
 
 
 
