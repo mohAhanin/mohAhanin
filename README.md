@@ -38,9 +38,7 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
   <img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<br />
-<br />
-Location: Shiraz, Iran | +98 933 917 4250  
+
 <br />
 
 
