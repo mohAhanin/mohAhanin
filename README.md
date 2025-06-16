@@ -11,7 +11,7 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
 
 - 📚 BSc Computer Engineering | Shiraz University of Technology 
 - 👨‍💻 Intern @ Ariooteam 
-- 👨‍🏫 TA for Database Course | AI Scientific Society – Deputy Secretary
+- 👨‍🏫 TA for Database Course | AI Scientific Society – Former Deputy Secretary
 - 🔍 Researcher at Laboratory of Cognitive Science & Data Science
 - 🧬 Interested in: Federated Learning, NLP, Medical AI
 
