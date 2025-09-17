@@ -1,31 +1,40 @@
 <p align="center"><a href="https://mohahanin.github.io/Portfolio-Webpage/">I'm 
-Mohammadamin Ahanin – Passionate about Data Science and AI!</a></p>
+Mohammadamin Ahanin – Data Engineer | Passionate about Data & AI!</a></p>
 
 <br />
 
-I'm a Computer Engineering student at Shiraz University of Technology, actively involved in research and applied projects in machine learning, federated learning, NLP, and medical image processing.
+I’m currently a **Data Engineer at Gantoum**, where I design and build scalable data pipelines, integrate diverse data sources, and support analytics teams with reliable and well-structured datasets.  
+My journey started in **Computer Engineering (BSc, Shiraz University of Technology)** with a focus on AI research, and evolved into applied work in **data engineering, machine learning, and automation**.
 
 ---
 
 ### 🧠 About Me
 
-- 📚 BSc Computer Engineering | Shiraz University of Technology 
-- 👨‍💻 Intern @ Ariooteam 
-- 👨‍🏫 TA for Database Course | AI Scientific Society – Former Deputy Secretary
-- 🔍 Researcher at Laboratory of Cognitive Science & Data Science
-- 🧬 Interested in: Federated Learning, NLP, Medical AI
+- 🎓 BSc Computer Engineering | Shiraz University of Technology  
+- 👨‍💻 Data Engineer @ Gantoum  
+- 🔍 Research background in Federated Learning, NLP, and Medical AI  
+- 👨‍🏫 Former Teaching Assistant for Database Course | AI Scientific Society Deputy Secretary  
+- 🌐 Interests: Data Engineering, Machine Learning, Cloud Data Warehousing, AI Applications  
 
-
+---
 
 ### 🛠️ Tech Stack
 
+**Data Engineering & Databases:**  
+<code><img height="30" alt="sqlserver" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+<code><img height="30" alt="pandas" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
+<code><img height="30" alt="gspread" src="https://avatars.githubusercontent.com/u/363428?v=4"></code>
+<code><img height="30" alt="airflow" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
+
+**Programming & ML:**  
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code>
 <code><img height="30" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-
 <code><img height="30" alt="numpy" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
-<code><img height="30" alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
+
+**Other Tools:**  
+<code><img height="30" alt="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="30" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>
 
 ---
 
@@ -38,18 +47,13 @@ I'm a Computer Engineering student at Shiraz University of Technology, actively 
   <img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-
 <br />
 
-
 **Email:**  
-[Academic mail](mailto:m.ahanin@sutech.ac.ir)  
 [Gmail](mailto:maahaninir@gmail.com)  
+[Academic mail](mailto:m.ahanin@sutech.ac.ir)  
 
 **Links:**  
 [GitHub Profile](https://github.com/mohahanin)  
 [Portfolio Website](https://mohahanin.github.io/Portfolio-Webpage/)  
 [Google Scholar](https://bit.ly/ahanin-scholar)
-
-
-
