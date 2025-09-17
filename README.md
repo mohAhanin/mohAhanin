@@ -56,4 +56,4 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 [GitHub Profile](https://github.com/mohahanin)  
 [Portfolio Website](https://mohahanin.github.io/Portfolio-Webpage/)  
 [Google Scholar](https://bit.ly/ahanin-scholar)  
-[Gantoum GitHub](https://github.com/gantoum)
+[Gantoum GitHub](https://github.com/gantoum-data)
