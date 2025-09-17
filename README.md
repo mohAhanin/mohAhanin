@@ -11,9 +11,9 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 ### 🧠 About Me
 
 - 🎓 BSc Computer Engineering | Shiraz University of Technology  
-- 👨‍💻 Data Engineer @ Gantoum  
+- ☁️ Data Engineer @ Gantoum  
 - 🔍 Research background in Federated Learning, NLP, and Medical AI  
-- 👨‍🏫 Former Teaching Assistant for Database Course | AI Scientific Society Deputy Secretary  
+- 🛢 Former Teaching Assistant for Database Course | AI Scientific Society Deputy Secretary  
 - 🌐 Interests: Data Engineering, Machine Learning, Cloud Data Warehousing, AI Applications  
 
 ---
