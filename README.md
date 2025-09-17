@@ -24,7 +24,6 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 <code><img height="30" alt="sqlserver" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="30" alt="pandas" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 <code><img height="30" alt="gspread" src="https://avatars.githubusercontent.com/u/363428?v=4"></code>
-<code><img height="30" alt="airflow" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
 
 **Programming & ML:**  
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -34,7 +33,6 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 
 **Other Tools:**  
 <code><img height="30" alt="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="30" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>
 
 ---
 
@@ -56,4 +54,5 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 **Links:**  
 [GitHub Profile](https://github.com/mohahanin)  
 [Portfolio Website](https://mohahanin.github.io/Portfolio-Webpage/)  
-[Google Scholar](https://bit.ly/ahanin-scholar)
+[Google Scholar](https://bit.ly/ahanin-scholar)  
+[Gantoum GitHub](https://github.com/gantoum)
