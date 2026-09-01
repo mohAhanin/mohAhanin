@@ -1,8 +1,6 @@
 name: Update Activity Graph
 
 on:
-  schedule:
-    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,39 +16,55 @@ jobs:
 
       - name: Download activity graph
         run: |
-          mkdir -p assets
-
           curl -fsSL \
             "https://github-readme-activity-graph-1poazijah-ahanin.vercel.app/graph?username=mohAhanin&theme=github" \
-            -o /tmp/activity-graph-response.svg
+            -o /tmp/activity-graph-response
 
-      - name: Extract valid SVG
+          echo "=== FILE TYPE ==="
+          file /tmp/activity-graph-response
+
+          echo "=== FILE SIZE ==="
+          wc -c /tmp/activity-graph-response
+
+          echo "=== FIRST 1000 CHARACTERS ==="
+          head -c 1000 /tmp/activity-graph-response
+          echo
+
+      - name: Extract SVG
         run: |
+          mkdir -p assets
+
           python3 <<'PY'
           from pathlib import Path
           import re
 
-          source = Path("/tmp/activity-graph-response.svg").read_text(
+          source = Path("/tmp/activity-graph-response").read_text(
               encoding="utf-8",
               errors="replace"
           )
 
+          print("Response length:", len(source))
+
           match = re.search(r"<svg\b.*?</svg>", source, re.DOTALL)
 
           if not match:
-              print("Could not find a complete SVG document.")
-              print(source[:1000])
+              print("NO SVG FOUND")
               raise SystemExit(1)
 
           svg = match.group(0)
+
+          print("Extracted SVG length:", len(svg))
 
           Path("assets/activity-graph.svg").write_text(
               svg,
               encoding="utf-8"
           )
-
-          print(f"Extracted SVG: {len(svg)} characters")
           PY
+
+      - name: Install SVG tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin libxml2-utils
 
       - name: Validate SVG
         run: |
@@ -58,13 +72,15 @@ jobs:
 
       - name: Convert SVG to PNG
         run: |
-          sudo apt-get update
-          sudo apt-get install -y librsvg2-bin
-
           rsvg-convert \
             -w 1200 \
             assets/activity-graph.svg \
             -o assets/activity-graph.png
+
+      - name: Check generated PNG
+        run: |
+          file assets/activity-graph.png
+          ls -lh assets/activity-graph.png
 
       - name: Commit graph
         run: |
