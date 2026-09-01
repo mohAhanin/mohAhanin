@@ -16,19 +16,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download activity graph
+      - name: Generate activity graph
         run: |
           mkdir -p assets
+
           curl -L \
-            "https://github-readme-activity-graph-1poazijah-ahanin.vercel.app/graph?username=mohAhanin&theme=github" \
+            "https://github-readme-activity-graph-1poazijah-ahanin.vercel.app/graph?username=mohAhanin&theme=github&bg_color=0d1117&color=67e8f9&line=ff3b8d&point=ffd43b&area=false&hide_border=false&custom_title=Mohammadamin%27s%20Contribution%20Graph" \
             -o assets/activity-graph.svg
+
+      - name: Convert SVG to PNG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+          rsvg-convert \
+            -w 1200 \
+            assets/activity-graph.svg \
+            -o assets/activity-graph.png
 
       - name: Commit graph
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/activity-graph.svg
+          git add assets/activity-graph.png
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
