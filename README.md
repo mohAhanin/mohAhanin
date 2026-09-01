@@ -8,4 +8,6 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 
 <h2>📈 Contribution Graph</h2>
 
-[![Mohammadamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohAhanin&bg_color=0d1117&color=67e8f9&line=ff3b8d&point=ffd43b&area=false&hide_border=false&custom_title=Mohammadamin%27s%20Contribution%20Graph)](https://github.com/mohAhanin)
+<p align="center">
+  <img src="https://mohAhanin.github.io/mohAhanin/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
