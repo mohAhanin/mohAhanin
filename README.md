@@ -11,7 +11,7 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 <p align="center">
   <a href="https://github.com/mohAhanin">
     <img
-      src="https://github-readme-activity-graph-1poazijah-ahanin.vercel.app/graph?username=mohAhanin&theme=github"
+      src="./assets/activity-graph.svg"
       alt="Mohammadamin's GitHub Activity Graph"
     />
   </a>
