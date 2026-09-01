@@ -9,5 +9,5 @@ My journey started in **Computer Engineering (BSc, Shiraz University of Technolo
 <h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://mohAhanin.github.io/mohAhanin/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mohAhanin/mohAhanin/output/github-contribution-grid-snake-dark.svg" alt="Mohammadamin's GitHub Contribution Graph" />
 </p>
