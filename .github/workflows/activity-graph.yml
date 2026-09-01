@@ -16,18 +16,51 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate activity graph
+      - name: Download activity graph
         run: |
           mkdir -p assets
 
-          curl -L \
-            "https://github-readme-activity-graph-1poazijah-ahanin.vercel.app/graph?username=mohAhanin&theme=github&bg_color=0d1117&color=67e8f9&line=ff3b8d&point=ffd43b&area=false&hide_border=false&custom_title=Mohammadamin%27s%20Contribution%20Graph" \
-            -o assets/activity-graph.svg
+          curl -fsSL \
+            "https://github-readme-activity-graph-1poazijah-ahanin.vercel.app/graph?username=mohAhanin&theme=github" \
+            -o /tmp/activity-graph-response.svg
+
+      - name: Extract valid SVG
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          source = Path("/tmp/activity-graph-response.svg").read_text(
+              encoding="utf-8",
+              errors="replace"
+          )
+
+          match = re.search(r"<svg\b.*?</svg>", source, re.DOTALL)
+
+          if not match:
+              print("Could not find a complete SVG document.")
+              print(source[:1000])
+              raise SystemExit(1)
+
+          svg = match.group(0)
+
+          Path("assets/activity-graph.svg").write_text(
+              svg,
+              encoding="utf-8"
+          )
+
+          print(f"Extracted SVG: {len(svg)} characters")
+          PY
+
+      - name: Validate SVG
+        run: |
+          xmllint --noout assets/activity-graph.svg
 
       - name: Convert SVG to PNG
         run: |
           sudo apt-get update
           sudo apt-get install -y librsvg2-bin
+
           rsvg-convert \
             -w 1200 \
             assets/activity-graph.svg \
@@ -38,7 +71,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/activity-graph.png
+          git add assets/activity-graph.svg assets/activity-graph.png
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
